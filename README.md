@@ -1,3 +1,7 @@
+A simple React.js app — the first step in my journey to learning and mastering React.
+
+This React app taught me the fundamentals of building interactive UIs. I practiced functional components, state management with useState(), event handling, and component composition. It was a hands-on introduction to JSX, reactivity, and building reusable, dynamic components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
